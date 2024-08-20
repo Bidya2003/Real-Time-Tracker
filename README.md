@@ -1,4 +1,4 @@
-Go to [http://localhost:5000/] in any device.
+Go to http://localhost:5000/ in any device.
 
 Enter a nickname, and then click on the "Add my location to the map".
 
